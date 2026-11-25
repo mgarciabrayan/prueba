@@ -1,0 +1,26 @@
+p {
+    background-color: orange;
+    color: white;
+}
+
+h1, h2, h3{
+    background-color: antiquewhite;
+    color: aliceblue;
+}
+
+h2{
+    color: red;
+}
+
+div p {
+    background-color:blue;
+}
+
+.verde {
+    background-color: green;
+}
+
+#aviso {
+    background-color:yellow
+}
+
